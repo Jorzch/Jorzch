@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Next.js and Tailwind.css**
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at <a href="https://jorcodecraft.com" target="blank">JorCodeCraft.com</a>
 
-- 📫 How to reach me 
+- 📫 How to reach me - jorge.leon@jorcodecraft.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
