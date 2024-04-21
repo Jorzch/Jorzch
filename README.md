@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://jorcodecraft.com" target="_blank">JorCodeCraft.com</a>
 
-- 📫 How to reach me - jorge.leon@jorcodecraft.com
+- 📫 How to reach me - jorge.leon@jortech.cc
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
