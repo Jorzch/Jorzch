@@ -21,6 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorsch-0&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_progress=true" alt="jorsch" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jorsch-0&show_icons=true&locale=en&theme=github_dark" alt="jorsch" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorsch-0&theme=github-dark-blue" alt="jorsch" /></p>
